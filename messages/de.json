@@ -1,0 +1,266 @@
+{
+  "nav": {
+    "home": "Start",
+    "work": "Arbeiten",
+    "education": "Ausbildung",
+    "certificates": "Zertifikate",
+    "contact": "Kontakt",
+    "menu": "Menü",
+    "closeMenu": "Menü schließen",
+    "openMenu": "Menü öffnen",
+    "skipToContent": "Zum Inhalt springen",
+    "skills": "Fähigkeiten"
+  },
+  "common": {
+    "name": "Zoubeyr Sahraoui",
+    "role": "Creative Strategist und Direct-Response-Texter",
+    "theme": "Darstellung",
+    "themeLight": "Hell",
+    "themeDark": "Dunkel",
+    "themeSystem": "System",
+    "language": "Sprache",
+    "downloadCv": "Lebenslauf herunterladen",
+    "downloadCvHint": "PDF",
+    "backTo": "Zurück zu {page}",
+    "comingSoon": "In Arbeit"
+  },
+  "home": {
+    "hero": {
+      "role": "Creative Strategist und Direct-Response-Texter",
+      "hook": "Ich finde den Grund, warum Menschen kaufen, und schreibe die Anzeige, die ihn ausspricht, bevor weitergescrollt wird.",
+      "location": "Tunesien, für E-Commerce-Marken weltweit",
+      "primaryCta": "Arbeiten ansehen",
+      "secondaryCta": "Erzählen Sie mir von Ihrem Produkt",
+      "tagline": "Kundeneinsichten in überzeugende Werbekonzepte, Hooks und Skripte für E-Commerce-Marken übersetzen.",
+      "pills": "Kreativstrategie|Werbetexte|Meta Ads",
+      "disciplines": "Kreativstrategie|Direct-Response-Texte|Entwicklung von Werbemitteln",
+      "liveLabel": "Laufende Kampagne",
+      "sceneAlt": "Ein illustriertes Studio bei der Arbeit: Kampagnen planen, texten und messen."
+    },
+    "proof": {
+      "title": "Was die Kampagnen gebracht haben",
+      "spend": "Verwaltetes Werbebudget",
+      "purchases": "Ausgelöste Käufe",
+      "roas": "Bester Kampagnen-ROAS",
+      "community": "Aufgebaute Community"
+    },
+    "about": {
+      "title": "Meine Arbeitsweise",
+      "p1": "Ich arbeite mit E-Commerce-Marken, die ein Produkt haben, das den Kauf wert ist, und ein Werbekonto, das das noch nicht beweist.",
+      "p2": "Jedes Projekt beginnt beim Kunden: was er wirklich lösen will, was ihn aufhält, und der eine Satz, der das Produkt selbstverständlich macht. Daraus werden Angles, Hooks und Skripte, die ein Media-Buyer direkt ausspielen kann.",
+      "p3": "Ich habe meine eigene Direct-to-Consumer-Marke gegründet und ihr Werbebudget verantwortet, und ich habe die Kommunikation einer Eventagentur mit einer Community von vierhunderttausend geführt. Ich kenne beide Seiten des Budgets."
+    },
+    "skills": {
+      "title": "Was ich mache",
+      "strategy": "Markenstrategie",
+      "strategyItems": "Markenpositionierung|Produktpositionierung|Kreativstrategie|Zielgruppenverständnis",
+      "paid": "Paid Media",
+      "paidItems": "Meta Ads|Kampagnenplanung|Performance-Optimierung|ROAS- und CPA-Analyse",
+      "content": "Content und Community",
+      "contentItems": "Community-Management|Content-Direction|Werbetexte|Kreativkonzepte",
+      "partnerships": "Partnerschaften",
+      "partnershipsItems": "Sponsoring-Strategie|Markenkooperationen|Kampagnenumsetzung|Ergebnisberichte",
+      "lead": "Strategie, Kreation und Performance, um Markenambition in messbares Wachstum zu übersetzen."
+    },
+    "selected": {
+      "title": "Ausgewählte Arbeiten",
+      "lead": "Drei Marken, der Gedanke hinter jeder Kampagne und was sie gebracht hat.",
+      "viewAll": "Alle Arbeiten ansehen"
+    },
+    "clients": {
+      "title": "Stolz gearbeitet mit",
+      "lead": "Marken, die ich aufgebaut, skaliert oder deren Budget ich verantwortet habe."
+    },
+    "approach": {
+      "title": "Wie ein Projekt läuft",
+      "lead": "Vier Schritte, in dieser Reihenfolge. Nichts geht in die Kreation, bevor der Kunde verstanden ist.",
+      "s1t": "Den Kunden verstehen",
+      "s1b": "Was er lösen will, was ihn aufhält, und die Worte, die er für beides benutzt.",
+      "s2t": "Den Angle finden",
+      "s2b": "Das eine Versprechen, das das Produkt für diesen Kunden selbstverständlich macht, samt Beleg.",
+      "s3t": "Die Kreation schreiben",
+      "s3b": "Hooks, Skripte und Anzeigentexte, die noch am selben Tag ins Konto können.",
+      "s4t": "Die Zahlen lesen",
+      "s4b": "ROAS, CPA und Hold Rate entscheiden, was skaliert, neu geschrieben oder gestoppt wird."
+    },
+    "faq": {
+      "title": "Häufige Fragen",
+      "lead": "Die kurzen Antworten. Für alles andere: einfach fragen.",
+      "q1": "Was macht Zoubeyr Sahraoui?",
+      "a1": "Kreativstrategie und Direct-Response-Texte für E-Commerce-Marken: Marken- und Produktpositionierung, Werbe-Angles, Hooks und Skripte sowie die Meta-Ads-Kampagnen, die sie tragen.",
+      "q2": "Auf welchen Plattformen laufen die Kampagnen?",
+      "a2": "Meta Ads, auf Facebook und Instagram. Dazu gehören Kampagnenplanung, Creative-Testing und Optimierung auf ROAS und CPA.",
+      "q3": "Wo sitzt er, und arbeitet er remote?",
+      "a3": "Er sitzt in Tunis, Tunesien, und arbeitet remote mit Marken weltweit.",
+      "q4": "Welche Ergebnisse hat er erzielt?",
+      "a4": "Über 20.000 $ verwaltetes Werbebudget, mehr als 12.000 ausgelöste Käufe, ein bester Kampagnen-ROAS von 3:1 und ein Community-Wachstum von über 400.000 für eine tunesische Eventagentur.",
+      "q5": "Wie startet ein Projekt?",
+      "a5": "Beim Kunden, vor jeder Kreation. Zuerst, was er lösen will und was ihn aufhält, dann der Angle, dann Hooks und Skripte. Schreiben Sie ihm auf WhatsApp oder per E-Mail."
+    },
+    "teaser": {
+      "title": "Was ich mache",
+      "viewAll": "Alle Fähigkeiten ansehen"
+    }
+  },
+  "work": {
+    "title": "Ausgewählte Arbeiten",
+    "lead": "Drei Marken, der Gedanke hinter jeder Kampagne und was sie gebracht hat.",
+    "viewCase": "Fallstudie lesen",
+    "role": "Rolle",
+    "year": "Jahr",
+    "context": "Kontext",
+    "insight": "Insight",
+    "mission": "Auftrag",
+    "solution": "Lösung",
+    "contribution": "Mein Beitrag",
+    "results": "Ergebnisse",
+    "disciplines": "Disziplinen",
+    "labels": {
+      "context": "Kontext",
+      "insight": "Insight",
+      "mission": "Auftrag",
+      "solution": "Lösung",
+      "contribution": "Mein Beitrag",
+      "results": "Ergebnisse",
+      "role": "Rolle",
+      "time": "Zeitraum",
+      "period": "Projektzeitraum"
+    }
+  },
+  "education": {
+    "title": "Ausbildung",
+    "lead": "Abschlüsse und Weiterbildung.",
+    "empty": "Ich baue diesen Bereich gerade auf. Bis dahin steht der vollständige Werdegang in meinem Lebenslauf.",
+    "emptyCta": "Fragen Sie mich danach",
+    "present": "Heute",
+    "entries": {
+      "essths": {
+        "degree": "Bachelor",
+        "field": "Informations- und Kommunikationswissenschaft und -technologie"
+      }
+    }
+  },
+  "certificates": {
+    "title": "Zertifikate",
+    "lead": "Zertifizierungen und abgeschlossene Programme.",
+    "empty": "Ich baue diesen Bereich gerade auf. Bis dahin steht die vollständige Liste in meinem Lebenslauf.",
+    "emptyCta": "Fragen Sie mich danach"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "lead": "Über WhatsApp erreichen Sie mich am schnellsten. E-Mail passt besser für Briefings und Dokumente.",
+    "linkedin": "LinkedIn",
+    "whatsapp": "WhatsApp",
+    "phone": "Telefon",
+    "email": "E-Mail",
+    "availability": "Ansässig in Tunesien. Verfügbar für Remote-Arbeit weltweit.",
+    "opensNewTab": "öffnet in einem neuen Tab",
+    "preferred": "Schnellste Antwort",
+    "respond": "Ich antworte meist innerhalb eines Tages."
+  },
+  "cta": {
+    "title": "Lassen Sie uns zusammenarbeiten",
+    "body": "Erzählen Sie mir vom Produkt und davon, wo die Kampagne hängt. Ich sage Ihnen, was ich zuerst testen würde.",
+    "button": "Gespräch beginnen"
+  },
+  "footer": {
+    "rights": "Alle Rechte vorbehalten.",
+    "built": "Gestaltet und gebaut in Tunesien.",
+    "social": "Anderswo",
+    "pages": "Seiten",
+    "direct": "Direkt"
+  },
+  "meta": {
+    "home": {
+      "title": "Zoubeyr Sahraoui — Creative Strategist und Werbetexter",
+      "description": "Kreativstrategie und Direct-Response-Werbetexte für E-Commerce-Marken. Meta-Ads-Kampagnen auf Basis von Kundeninsights, gemessen am Return on Ad Spend."
+    },
+    "work": {
+      "title": "Ausgewählte Arbeiten",
+      "description": "Kampagnen-Fallstudien für SaZo, VIP Events and Pub und Al-Sojood: Strategie, Kreation und die erzielten Ergebnisse."
+    },
+    "education": {
+      "title": "Ausbildung",
+      "description": "Ausbildung und Weiterbildung von Zoubeyr Sahraoui, Creative Strategist und Direct-Response-Texter."
+    },
+    "certificates": {
+      "title": "Zertifikate",
+      "description": "Zertifizierungen und abgeschlossene Programme von Zoubeyr Sahraoui, Creative Strategist und Direct-Response-Texter."
+    },
+    "contact": {
+      "title": "Kontakt",
+      "description": "Erreichen Sie Zoubeyr Sahraoui über WhatsApp, LinkedIn, Telefon oder E-Mail für Kreativstrategie und Direct-Response-Texte."
+    },
+    "skills": {
+      "title": "Fähigkeiten",
+      "description": "Markenstrategie, Paid Media, Content und Community, Partnerschaften: die Fähigkeiten, die Zoubeyr Sahraoui für E-Commerce-Marken einbringt."
+    },
+    "caseStudy": "Fallstudie"
+  },
+  "metrics": {
+    "adSpend": "Werbebudget",
+    "purchases": "Käufe",
+    "cpa": "CPA",
+    "roas": "ROAS",
+    "community": "Community-Wachstum",
+    "eventsPromoted": "Beworbene Events",
+    "sponsorships": "Sponsorings",
+    "eventsCovered": "Begleitete Events"
+  },
+  "projects": {
+    "sazo": {
+      "role": "Gründer und Growth Marketer",
+      "bannerRole": "Gründer und E-Commerce-Manager",
+      "disciplines": "Markenstrategie|Kreativdirektion|Paid Media",
+      "description": "Eine eigenständige Schmuckmarke aufbauen, durch durchdachte Positionierung und erzählerische Kampagnen.",
+      "logoAlt": "Goldenes SaZo-Logo auf schwarzem Grund",
+      "bannerAlt": "SaZo-Fallstudie: Partnerarmbänder, Markenstrategie und Ergebnisse der Werbekampagnen",
+      "subtitle": "Sazo Accessoires",
+      "caseType": "Fallstudie Marke & Performance",
+      "resultsLead": "Kampagnen-Performance",
+      "context": "Eine Direct-to-Consumer-Accessoire-Marke für partnerschaftlich abgestimmten Schmuck.",
+      "insight": "Bedeutungsvolle Geschenke und abgestimmte Details machen aus Alltagsaccessoires Symbole der Verbundenheit.",
+      "solution": "Produktgeführte Creatives und Direct-Response-Botschaften rund um Schenken, Verbundenheit und eine einfache Kaufentscheidung.",
+      "contribution": "Marken- und Produktpositionierung|Angebots- und Produktseiten-Botschaften|Umsetzung der Meta-Ads-Kampagnen|Kreativkonzepte und Werbetexte"
+    },
+    "vip-events": {
+      "role": "Community Manager",
+      "bannerRole": "Community Manager",
+      "disciplines": "Community-Management|Meta Ads|Sponsoring",
+      "description": "Einprägsame Eventkampagnen und echtes Community-Wachstum für eine tunesische Eventagentur.",
+      "logoAlt": "Ornamentales VIP Events & Pub-Logo in Gold auf schwarzem Grund",
+      "bannerAlt": "VIP Events and Pub-Fallstudie: visuelle Identität, Events und Kampagnenergebnisse",
+      "subtitle": "Eventagentur",
+      "caseType": "Fallstudie Community & Sponsoring",
+      "resultsLead": "Echte Wirkung. Bleibende Erinnerungen.",
+      "context": "Eine renommierte Eventagentur, spezialisiert auf Organisation und Promotion von Musik-, Kultur- und Firmenveranstaltungen in Tunesien.",
+      "mission": "Sponsoring-Unterlagen für große Veranstaltungen erstellen und Werbung sowie Promotion dieser Events verantworten.",
+      "contribution": "Aufbau und Steuerung der Kommunikationskampagnen in sozialen Medien (Facebook, Instagram usw.)|Gestaltung der Sponsoring-Unterlagen|Steuerung von Eventwerbung und Promotion|Partnerschaften und Kooperationen mit Sponsoren|Begleitung und Aktivierung während der Events (Konzerte, Festivals, Showcases usw.)",
+      "notes": {
+        "community": "Mehr Follower und mehr Interaktion.",
+        "eventsPromoted": "Erfolgreiche Kampagnen und ausverkaufte Events.",
+        "sponsorships": "Starke Partnerschaften und wertvolle Kooperationen.",
+        "eventsCovered": "Konzerte, Festivals, Showcases und mehr."
+      }
+    },
+    "al-sojood": {
+      "role": "Creative Strategist",
+      "bannerRole": "Creative Strategist",
+      "disciplines": "Kreativstrategie|Meta Ads|Performance",
+      "description": "Eine produktgeführte Kampagne rund um Komfort, Klarheit und ein besser gestütztes Gebet.",
+      "logoAlt": "Al-Sojood-Logo mit goldener Moschee auf olivfarbenem Grund",
+      "bannerAlt": "Al-Sojood-Fallstudie: ergonomischer Gebetsstuhl, Kreativstrategie und Kampagnenergebnisse",
+      "subtitle": "",
+      "caseType": "Fallstudie Kreativstrategie",
+      "resultsLead": "Kampagnen-Performance",
+      "context": "Eine Marke für Gebetsstühle, ausgerichtet auf Komfort und Unterstützung während des Gebets.",
+      "insight": "Den Nutzen klar machen: ein besser gestütztes Gebet für alle, denen das Knien schwerfällt.",
+      "solution": "Nutzengeführte Kreativkonzepte, die Produktklarheit, Empathie und Direct-Response-Botschaften verbinden.",
+      "contribution": "Kreativstrategie|Werbe-Angles|Werbetexte und Kreativdirektion"
+    }
+  },
+  "skills": {
+    "title": "Fähigkeiten",
+    "lead": "Strategie, Kreation und Performance, um Markenambition in messbares Wachstum zu übersetzen."
+  }
+}

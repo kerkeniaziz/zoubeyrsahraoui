@@ -1,0 +1,266 @@
+{
+  "nav": {
+    "home": "Home",
+    "work": "Work",
+    "education": "Education",
+    "certificates": "Certificates",
+    "contact": "Contact",
+    "menu": "Menu",
+    "closeMenu": "Close menu",
+    "openMenu": "Open menu",
+    "skipToContent": "Skip to content",
+    "skills": "Skills"
+  },
+  "common": {
+    "name": "Zoubeyr Sahraoui",
+    "role": "Creative strategist and direct-response copywriter",
+    "theme": "Theme",
+    "themeLight": "Light",
+    "themeDark": "Dark",
+    "themeSystem": "System",
+    "language": "Language",
+    "downloadCv": "Download CV",
+    "downloadCvHint": "PDF",
+    "backTo": "Back to {page}",
+    "comingSoon": "In progress"
+  },
+  "home": {
+    "hero": {
+      "role": "Creative strategist and direct-response copywriter",
+      "hook": "I find the reason people buy, then write the ad that says it before they scroll.",
+      "location": "Tunisia, working with e-commerce brands anywhere",
+      "primaryCta": "See the work",
+      "secondaryCta": "Tell me about your product",
+      "tagline": "Turning customer insights into compelling advertising concepts, hooks and scripts for e-commerce brands.",
+      "pills": "Creative Strategy|Ad Copywriting|Meta Ads",
+      "disciplines": "Creative Strategy|Direct-Response Copywriting|Ad Creative Development",
+      "liveLabel": "Live campaign",
+      "sceneAlt": "An illustrated studio at work: planning, writing and measuring campaigns."
+    },
+    "proof": {
+      "title": "What the campaigns returned",
+      "spend": "Ad spend managed",
+      "purchases": "Purchases driven",
+      "roas": "Best campaign ROAS",
+      "community": "Community grown"
+    },
+    "about": {
+      "title": "How I work",
+      "p1": "I work with e-commerce brands that have a product worth buying and an ad account that is not proving it yet.",
+      "p2": "Every project starts with the customer: what they are actually trying to solve, what stops them, and the one sentence that makes the product obvious. That becomes the angles, hooks and scripts a media buyer can put straight into the account.",
+      "p3": "I have founded my own direct-to-consumer brand and carried its ad budget, and I have run communication for an events agency with a community of four hundred thousand. I have been on both sides of the spend."
+    },
+    "skills": {
+      "title": "What I do",
+      "strategy": "Brand strategy",
+      "strategyItems": "Brand positioning|Product positioning|Creative strategy|Audience insight",
+      "paid": "Paid media",
+      "paidItems": "Meta Ads|Campaign planning|Performance optimisation|ROAS and CPA analysis",
+      "content": "Content and community",
+      "contentItems": "Community management|Content direction|Ad copywriting|Creative concepts",
+      "partnerships": "Partnerships",
+      "partnershipsItems": "Sponsorship strategy|Brand collaborations|Campaign execution|Results reporting",
+      "lead": "Strategy, creative and performance, built to turn brand ambition into measurable growth."
+    },
+    "selected": {
+      "title": "Selected work",
+      "lead": "Three brands, the thinking behind each campaign, and what it returned.",
+      "viewAll": "See all work"
+    },
+    "clients": {
+      "title": "Proud to have worked with",
+      "lead": "Brands I have built, grown, or carried the budget for."
+    },
+    "approach": {
+      "title": "How a project runs",
+      "lead": "Four steps, in this order. Nothing moves to creative before the customer is understood.",
+      "s1t": "Understand the customer",
+      "s1b": "What they are trying to solve, what stops them, and the words they use for both.",
+      "s2t": "Find the angle",
+      "s2b": "The one claim that makes the product obvious to that customer, and the proof behind it.",
+      "s3t": "Write the creative",
+      "s3b": "Hooks, scripts and ad copy a media buyer can put into the account the same day.",
+      "s4t": "Read the numbers",
+      "s4b": "ROAS, CPA and hold rate decide what gets scaled, rewritten, or dropped."
+    },
+    "faq": {
+      "title": "Questions people ask",
+      "lead": "The short answers. Anything else, just ask.",
+      "q1": "What does Zoubeyr Sahraoui do?",
+      "a1": "Creative strategy and direct-response copywriting for e-commerce brands: brand and product positioning, advertising angles, hooks and ad scripts, and the Meta Ads campaigns that carry them.",
+      "q2": "Which platforms does he run campaigns on?",
+      "a2": "Meta Ads, across Facebook and Instagram. That covers campaign planning, creative testing, and optimisation against ROAS and CPA.",
+      "q3": "Where is he based, and does he work remotely?",
+      "a3": "He is based in Tunis, Tunisia, and works remotely with brands anywhere.",
+      "q4": "What results has he delivered?",
+      "a4": "More than $20,000 in managed ad spend, over 12,000 purchases driven, a best campaign ROAS of 3:1, and community growth of over 400,000 for a Tunisian events agency.",
+      "q5": "How does a project start?",
+      "a5": "With the customer, before any creative. First what they are trying to solve and what stops them, then the angle, then the hooks and scripts. Message him on WhatsApp or by email to begin."
+    },
+    "teaser": {
+      "title": "What I do",
+      "viewAll": "See all capabilities"
+    }
+  },
+  "work": {
+    "title": "Selected work",
+    "lead": "Three brands, the thinking behind each campaign, and what it returned.",
+    "viewCase": "Read the case study",
+    "role": "Role",
+    "year": "Year",
+    "context": "Context",
+    "insight": "Insight",
+    "mission": "Mission",
+    "solution": "Solution",
+    "contribution": "My contribution",
+    "results": "Results",
+    "disciplines": "Disciplines",
+    "labels": {
+      "context": "Context",
+      "insight": "Insight",
+      "mission": "Mission",
+      "solution": "Solution",
+      "contribution": "My contribution",
+      "results": "Results",
+      "role": "Role",
+      "time": "Time",
+      "period": "Project period"
+    }
+  },
+  "education": {
+    "title": "Education",
+    "lead": "Degrees and training.",
+    "empty": "I am adding this section now. Until it is here, my CV carries the full history.",
+    "emptyCta": "Ask me about it",
+    "present": "Present",
+    "entries": {
+      "essths": {
+        "degree": "Bachelor's degree",
+        "field": "Information and communication science and technology"
+      }
+    }
+  },
+  "certificates": {
+    "title": "Certificates",
+    "lead": "Certifications and completed programmes.",
+    "empty": "I am adding this section now. Until it is here, my CV carries the full list.",
+    "emptyCta": "Ask me about it"
+  },
+  "contact": {
+    "title": "Contact",
+    "lead": "WhatsApp reaches me fastest. Email is better for briefs and documents.",
+    "linkedin": "LinkedIn",
+    "whatsapp": "WhatsApp",
+    "phone": "Phone",
+    "email": "Email",
+    "availability": "Based in Tunisia. Available for remote work worldwide.",
+    "opensNewTab": "opens in a new tab",
+    "preferred": "Fastest reply",
+    "respond": "I usually reply within a day."
+  },
+  "cta": {
+    "title": "Let's work together",
+    "body": "Tell me about the product and where the campaign is stuck. I will tell you what I would test first.",
+    "button": "Start a conversation"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "built": "Designed and built in Tunisia.",
+    "social": "Elsewhere",
+    "pages": "Pages",
+    "direct": "Direct"
+  },
+  "meta": {
+    "home": {
+      "title": "Zoubeyr Sahraoui — Creative Strategist & Copywriter",
+      "description": "Creative strategy and direct-response ad copy for e-commerce brands. Meta Ads campaigns built on customer insight and measured in return on ad spend."
+    },
+    "work": {
+      "title": "Selected Work",
+      "description": "Campaign case studies for SaZo, VIP Events and Pub, and Al-Sojood: the strategy, the creative, and the results each returned."
+    },
+    "education": {
+      "title": "Education",
+      "description": "Education and training of Zoubeyr Sahraoui, creative strategist and direct-response copywriter."
+    },
+    "certificates": {
+      "title": "Certificates",
+      "description": "Certifications and completed programmes of Zoubeyr Sahraoui, creative strategist and direct-response copywriter."
+    },
+    "contact": {
+      "title": "Contact",
+      "description": "Reach Zoubeyr Sahraoui on WhatsApp, LinkedIn, phone or email for creative strategy and direct-response copywriting work."
+    },
+    "skills": {
+      "title": "Skills",
+      "description": "Brand strategy, paid media, content and community, and partnerships: the capabilities Zoubeyr Sahraoui brings to e-commerce brands."
+    },
+    "caseStudy": "case study"
+  },
+  "metrics": {
+    "adSpend": "Ad spend",
+    "purchases": "Purchases",
+    "cpa": "CPA",
+    "roas": "ROAS",
+    "community": "Community growth",
+    "eventsPromoted": "Events promoted",
+    "sponsorships": "Sponsorships",
+    "eventsCovered": "Events covered"
+  },
+  "projects": {
+    "sazo": {
+      "role": "Founder & Growth Marketer",
+      "bannerRole": "Founder & E-commerce Manager",
+      "disciplines": "Brand strategy|Creative direction|Paid media",
+      "description": "Building a distinctive jewellery brand through thoughtful positioning and campaign storytelling.",
+      "logoAlt": "Gold SaZo logo on a black ground",
+      "bannerAlt": "SaZo case study: matching bracelets, brand strategy and advertising campaign results",
+      "subtitle": "Sazo Accessoires",
+      "caseType": "Brand & performance case study",
+      "resultsLead": "Campaign performance",
+      "context": "A direct-to-consumer accessories brand focused on matching jewellery for couples.",
+      "insight": "Meaningful gifts and matching details can turn everyday accessories into symbols of connection.",
+      "solution": "Product-led creatives and direct-response messaging built around gifting, connection and simple purchase decisions.",
+      "contribution": "Brand and product positioning|Offer and product-page messaging|Meta Ads campaign execution|Creative concepts and ad copy"
+    },
+    "vip-events": {
+      "role": "Community Manager",
+      "bannerRole": "Community Manager",
+      "disciplines": "Community management|Meta Ads|Sponsorship",
+      "description": "Creating memorable event campaigns and meaningful community growth for a Tunisian events agency.",
+      "logoAlt": "Ornamental VIP Events & Pub logo in gold on a black ground",
+      "bannerAlt": "VIP Events and Pub case study: visual identity, events and campaign results",
+      "subtitle": "Events Agency",
+      "caseType": "Community and sponsorship case study",
+      "resultsLead": "Real impact. Lasting memories.",
+      "context": "A prestigious events agency specialized in the organization and promotion of musical, cultural and corporate events in Tunisia.",
+      "mission": "Prepare sponsorship dossiers for major events and manage the advertising and promotion of these events.",
+      "contribution": "Creation and management of communication campaigns on social media (Facebook, Instagram, etc.)|Design of sponsorship dossiers|Management of event advertising and promotion|Partnerships and collaborations with sponsors|Coverage and engagement during events (concerts, festivals, showcases, etc.)",
+      "notes": {
+        "community": "Increased followers and engagement.",
+        "eventsPromoted": "Successful campaigns and sold-out events.",
+        "sponsorships": "Strong partnerships and valuable collaborations.",
+        "eventsCovered": "Concerts, festivals, showcases, and more."
+      }
+    },
+    "al-sojood": {
+      "role": "Creative Strategist",
+      "bannerRole": "Creative Strategist",
+      "disciplines": "Creative strategy|Meta Ads|Performance",
+      "description": "A product-led campaign built around comfort, clarity and a more supportive prayer experience.",
+      "logoAlt": "Al-Sojood logo showing a gold mosque on an olive ground",
+      "bannerAlt": "Al-Sojood case study: ergonomic prayer seat, creative strategy and campaign results",
+      "subtitle": "",
+      "caseType": "Creative strategy case study",
+      "resultsLead": "Campaign performance",
+      "context": "A prayer chair brand focused on comfort and support during prayer.",
+      "insight": "Make the benefit clear: more supported prayer for people who find kneeling difficult.",
+      "solution": "Benefit-led creative concepts combining product clarity, empathy, and direct-response messaging.",
+      "contribution": "Creative strategy|Advertising angles|Ad copy and creative direction"
+    }
+  },
+  "skills": {
+    "title": "Skills",
+    "lead": "Strategy, creative and performance, built to turn brand ambition into measurable growth."
+  }
+}

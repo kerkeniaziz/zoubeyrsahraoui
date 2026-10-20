@@ -1,0 +1,266 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "work": "Trabajos",
+    "education": "Formación",
+    "certificates": "Certificados",
+    "contact": "Contacto",
+    "menu": "Menú",
+    "closeMenu": "Cerrar el menú",
+    "openMenu": "Abrir el menú",
+    "skipToContent": "Ir al contenido",
+    "skills": "Habilidades"
+  },
+  "common": {
+    "name": "Zoubeyr Sahraoui",
+    "role": "Estratega creativo y redactor de respuesta directa",
+    "theme": "Tema",
+    "themeLight": "Claro",
+    "themeDark": "Oscuro",
+    "themeSystem": "Sistema",
+    "language": "Idioma",
+    "downloadCv": "Descargar el CV",
+    "downloadCvHint": "PDF",
+    "backTo": "Volver a {page}",
+    "comingSoon": "En proceso"
+  },
+  "home": {
+    "hero": {
+      "role": "Estratega creativo y redactor de respuesta directa",
+      "hook": "Encuentro la razón por la que la gente compra y escribo el anuncio que la dice antes de que sigan deslizando.",
+      "location": "Desde Túnez, con marcas de comercio electrónico en cualquier lugar",
+      "primaryCta": "Ver los trabajos",
+      "secondaryCta": "Cuéntame sobre tu producto",
+      "tagline": "Convertir el conocimiento del cliente en conceptos publicitarios, ganchos y guiones para marcas de comercio electrónico.",
+      "pills": "Estrategia creativa|Redacción publicitaria|Meta Ads",
+      "disciplines": "Estrategia creativa|Redacción de respuesta directa|Desarrollo creativo publicitario",
+      "liveLabel": "Campaña activa",
+      "sceneAlt": "Un estudio ilustrado trabajando: planificar, redactar y medir campañas."
+    },
+    "proof": {
+      "title": "Lo que devolvieron las campañas",
+      "spend": "Inversión publicitaria gestionada",
+      "purchases": "Compras generadas",
+      "roas": "Mejor ROAS de campaña",
+      "community": "Comunidad construida"
+    },
+    "about": {
+      "title": "Cómo trabajo",
+      "p1": "Trabajo con marcas de comercio electrónico que tienen un producto que vale la pena comprar y una cuenta publicitaria que todavía no lo demuestra.",
+      "p2": "Cada proyecto empieza por el cliente: qué intenta resolver de verdad, qué lo frena y la frase que vuelve evidente el producto. Eso se convierte en los ángulos, los ganchos y los guiones que un comprador de medios puede lanzar directamente.",
+      "p3": "Fundé mi propia marca de venta directa al consumidor y asumí su presupuesto publicitario, y dirigí la comunicación de una agencia de eventos con una comunidad de cuatrocientas mil personas. He estado en los dos lados del presupuesto."
+    },
+    "skills": {
+      "title": "Lo que hago",
+      "strategy": "Estrategia de marca",
+      "strategyItems": "Posicionamiento de marca|Posicionamiento de producto|Estrategia creativa|Comprensión de la audiencia",
+      "paid": "Medios pagados",
+      "paidItems": "Meta Ads|Planificación de campañas|Optimización del rendimiento|Análisis de ROAS y CPA",
+      "content": "Contenido y comunidad",
+      "contentItems": "Gestión de comunidad|Dirección de contenido|Redacción publicitaria|Conceptos creativos",
+      "partnerships": "Alianzas",
+      "partnershipsItems": "Estrategia de patrocinio|Colaboraciones de marca|Ejecución de campañas|Informes de resultados",
+      "lead": "Estrategia, creatividad y rendimiento, para convertir la ambición de marca en crecimiento medible."
+    },
+    "selected": {
+      "title": "Trabajos seleccionados",
+      "lead": "Tres marcas, el razonamiento detrás de cada campaña y lo que devolvió.",
+      "viewAll": "Ver todos los trabajos"
+    },
+    "clients": {
+      "title": "He trabajado con",
+      "lead": "Marcas que he construido, hecho crecer o cuyo presupuesto he gestionado."
+    },
+    "approach": {
+      "title": "Cómo avanza un proyecto",
+      "lead": "Cuatro pasos, en este orden. Nada pasa a creatividad antes de entender al cliente.",
+      "s1t": "Entender al cliente",
+      "s1b": "Qué intenta resolver, qué lo frena y las palabras que usa para ambas cosas.",
+      "s2t": "Encontrar el ángulo",
+      "s2b": "La promesa que vuelve evidente el producto para ese cliente, y la prueba que la sostiene.",
+      "s3t": "Escribir la creatividad",
+      "s3b": "Ganchos, guiones y textos publicitarios listos para lanzar el mismo día.",
+      "s4t": "Leer los números",
+      "s4b": "El ROAS, el CPA y la retención deciden qué se escala, se reescribe o se detiene."
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "lead": "Las respuestas cortas. Para lo demás, pregunta.",
+      "q1": "¿A qué se dedica Zoubeyr Sahraoui?",
+      "a1": "Estrategia creativa y redacción de respuesta directa para marcas de comercio electrónico: posicionamiento de marca y producto, ángulos publicitarios, ganchos y guiones, y las campañas de Meta Ads que los sostienen.",
+      "q2": "¿En qué plataformas lanza campañas?",
+      "a2": "Meta Ads, en Facebook e Instagram. Incluye planificación de campañas, testeo de creatividades y optimización por ROAS y CPA.",
+      "q3": "¿Dónde está y trabaja en remoto?",
+      "a3": "Está en Túnez capital, Túnez, y trabaja en remoto con marcas de cualquier lugar.",
+      "q4": "¿Qué resultados ha conseguido?",
+      "a4": "Más de 20.000 $ de inversión publicitaria gestionada, más de 12.000 compras generadas, un mejor ROAS de campaña de 3:1 y un crecimiento de comunidad de más de 400.000 para una agencia de eventos tunecina.",
+      "q5": "¿Cómo empieza un proyecto?",
+      "a5": "Por el cliente, antes de cualquier creatividad. Primero qué intenta resolver y qué lo frena, luego el ángulo, luego los ganchos y guiones. Escríbele por WhatsApp o correo para empezar."
+    },
+    "teaser": {
+      "title": "Lo que hago",
+      "viewAll": "Ver todas las habilidades"
+    }
+  },
+  "work": {
+    "title": "Trabajos seleccionados",
+    "lead": "Tres marcas, el razonamiento detrás de cada campaña y lo que devolvió.",
+    "viewCase": "Leer el caso de estudio",
+    "role": "Rol",
+    "year": "Año",
+    "context": "Contexto",
+    "insight": "Insight",
+    "mission": "Misión",
+    "solution": "Solución",
+    "contribution": "Mi aportación",
+    "results": "Resultados",
+    "disciplines": "Disciplinas",
+    "labels": {
+      "context": "Contexto",
+      "insight": "Insight",
+      "mission": "Misión",
+      "solution": "Solución",
+      "contribution": "Mi aportación",
+      "results": "Resultados",
+      "role": "Rol",
+      "time": "Periodo",
+      "period": "Periodo del proyecto"
+    }
+  },
+  "education": {
+    "title": "Formación",
+    "lead": "Titulaciones y formación.",
+    "empty": "Estoy montando esta sección ahora mismo. Mientras tanto, mi CV recoge la trayectoria completa.",
+    "emptyCta": "Pregúntame por ella",
+    "present": "Actualidad",
+    "entries": {
+      "essths": {
+        "degree": "Grado",
+        "field": "Ciencias y tecnologías de la información y la comunicación"
+      }
+    }
+  },
+  "certificates": {
+    "title": "Certificados",
+    "lead": "Certificaciones y programas completados.",
+    "empty": "Estoy montando esta sección ahora mismo. Mientras tanto, mi CV recoge la lista completa.",
+    "emptyCta": "Pregúntame por ella"
+  },
+  "contact": {
+    "title": "Contacto",
+    "lead": "Por WhatsApp me localizas antes. El correo va mejor para briefings y documentos.",
+    "linkedin": "LinkedIn",
+    "whatsapp": "WhatsApp",
+    "phone": "Teléfono",
+    "email": "Correo electrónico",
+    "availability": "Con base en Túnez. Disponible para trabajo remoto en todo el mundo.",
+    "opensNewTab": "se abre en una pestaña nueva",
+    "preferred": "Respuesta más rápida",
+    "respond": "Normalmente respondo en menos de un día."
+  },
+  "cta": {
+    "title": "Trabajemos juntos",
+    "body": "Cuéntame cuál es el producto y dónde se ha atascado la campaña. Te diré qué probaría primero.",
+    "button": "Iniciar una conversación"
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados.",
+    "built": "Diseñado y construido en Túnez.",
+    "social": "En otros sitios",
+    "pages": "Páginas",
+    "direct": "Directo"
+  },
+  "meta": {
+    "home": {
+      "title": "Zoubeyr Sahraoui — Estratega creativo y copywriter",
+      "description": "Estrategia creativa y redacción de respuesta directa para marcas de e-commerce. Campañas de Meta Ads basadas en el insight del cliente y medidas por ROAS."
+    },
+    "work": {
+      "title": "Trabajos seleccionados",
+      "description": "Casos de estudio de campañas para SaZo, VIP Events and Pub y Al-Sojood: la estrategia, la creatividad y los resultados obtenidos."
+    },
+    "education": {
+      "title": "Formación",
+      "description": "Formación y trayectoria de Zoubeyr Sahraoui, estratega creativo y redactor de respuesta directa."
+    },
+    "certificates": {
+      "title": "Certificados",
+      "description": "Certificaciones y programas completados por Zoubeyr Sahraoui, estratega creativo y redactor de respuesta directa."
+    },
+    "contact": {
+      "title": "Contacto",
+      "description": "Contacta con Zoubeyr Sahraoui por WhatsApp, LinkedIn, teléfono o correo electrónico para estrategia creativa y redacción publicitaria."
+    },
+    "skills": {
+      "title": "Habilidades",
+      "description": "Estrategia de marca, medios pagados, contenido y comunidad, y alianzas: las capacidades que Zoubeyr Sahraoui aporta a las marcas de comercio electrónico."
+    },
+    "caseStudy": "caso de estudio"
+  },
+  "metrics": {
+    "adSpend": "Inversión publicitaria",
+    "purchases": "Compras",
+    "cpa": "CPA",
+    "roas": "ROAS",
+    "community": "Crecimiento de comunidad",
+    "eventsPromoted": "Eventos promocionados",
+    "sponsorships": "Patrocinios",
+    "eventsCovered": "Eventos cubiertos"
+  },
+  "projects": {
+    "sazo": {
+      "role": "Fundador y responsable de crecimiento",
+      "bannerRole": "Fundador y responsable de e-commerce",
+      "disciplines": "Estrategia de marca|Dirección creativa|Medios pagados",
+      "description": "Construir una marca de joyería con carácter mediante un posicionamiento cuidado y narrativa de campaña.",
+      "logoAlt": "Logotipo dorado de SaZo sobre fondo negro",
+      "bannerAlt": "Caso de estudio de SaZo: pulseras a juego, estrategia de marca y resultados de las campañas",
+      "subtitle": "Sazo Accessoires",
+      "caseType": "Caso de estudio de marca y rendimiento",
+      "resultsLead": "Rendimiento de las campañas",
+      "context": "Una marca de accesorios de venta directa centrada en joyería a juego para parejas.",
+      "insight": "Los regalos con significado y los detalles a juego convierten accesorios cotidianos en símbolos de vínculo.",
+      "solution": "Creatividades lideradas por el producto y mensajes de respuesta directa construidos sobre el regalo, el vínculo y una decisión de compra sencilla.",
+      "contribution": "Posicionamiento de marca y producto|Mensajes de la oferta y de la página de producto|Ejecución de campañas de Meta Ads|Conceptos creativos y redacción publicitaria"
+    },
+    "vip-events": {
+      "role": "Community manager",
+      "bannerRole": "Community manager",
+      "disciplines": "Gestión de comunidad|Meta Ads|Patrocinio",
+      "description": "Campañas de eventos memorables y crecimiento real de comunidad para una agencia tunecina.",
+      "logoAlt": "Logotipo ornamental de VIP Events & Pub en dorado sobre fondo negro",
+      "bannerAlt": "Caso de estudio de VIP Events and Pub: identidad visual, eventos y resultados de campañas",
+      "subtitle": "Agencia de eventos",
+      "caseType": "Caso de estudio de comunidad y patrocinio",
+      "resultsLead": "Impacto real. Recuerdos duraderos.",
+      "context": "Una prestigiosa agencia de eventos especializada en la organización y promoción de eventos musicales, culturales y corporativos en Túnez.",
+      "mission": "Preparar los dosieres de patrocinio de los grandes eventos y gestionar la publicidad y la promoción de dichos eventos.",
+      "contribution": "Creación y gestión de campañas de comunicación en redes sociales (Facebook, Instagram, etc.)|Diseño de los dosieres de patrocinio|Gestión de la publicidad y la promoción de eventos|Alianzas y colaboraciones con patrocinadores|Cobertura y dinamización durante los eventos (conciertos, festivales, showcases, etc.)",
+      "notes": {
+        "community": "Más seguidores y más interacción.",
+        "eventsPromoted": "Campañas exitosas y eventos con aforo completo.",
+        "sponsorships": "Alianzas sólidas y colaboraciones de valor.",
+        "eventsCovered": "Conciertos, festivales, showcases y más."
+      }
+    },
+    "al-sojood": {
+      "role": "Estratega creativo",
+      "bannerRole": "Estratega creativo",
+      "disciplines": "Estrategia creativa|Meta Ads|Rendimiento",
+      "description": "Una campaña liderada por el producto, construida sobre comodidad, claridad y una oración mejor sostenida.",
+      "logoAlt": "Logotipo de Al-Sojood con una mezquita dorada sobre fondo oliva",
+      "bannerAlt": "Caso de estudio de Al-Sojood: asiento de oración ergonómico, estrategia creativa y resultados",
+      "subtitle": "",
+      "caseType": "Caso de estudio de estrategia creativa",
+      "resultsLead": "Rendimiento de las campañas",
+      "context": "Una marca de sillas de oración centrada en la comodidad y el soporte durante la oración.",
+      "insight": "Dejar claro el beneficio: una oración mejor sostenida para quienes les cuesta arrodillarse.",
+      "solution": "Conceptos creativos liderados por el beneficio, que combinan claridad de producto, empatía y mensajes de respuesta directa.",
+      "contribution": "Estrategia creativa|Ángulos publicitarios|Redacción publicitaria y dirección creativa"
+    }
+  },
+  "skills": {
+    "title": "Habilidades",
+    "lead": "Estrategia, creatividad y rendimiento, para convertir la ambición de marca en crecimiento medible."
+  }
+}
