@@ -9,7 +9,7 @@ import { chromium } from "@playwright/test"
  */
 const BASE = "http://localhost:3000"
 const WIDTHS = [320, 390, 768, 1024, 1440, 1920]
-const PATHS = ["", "/work", "/skills", "/education", "/certificates", "/contact", "/work/sazo", "/work/vip-events"]
+const PATHS = ["", "/work", "/skills", "/education", "/contact", "/work/sazo", "/work/vip-events"]
 const CASES = [
   { locale: "en", theme: "dark" },
   { locale: "en", theme: "light" },

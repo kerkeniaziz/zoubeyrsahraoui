@@ -73,6 +73,8 @@ export type Project = {
   tagline: string
   /** Centre campaign visual. */
   heroImage: string
+  /** Intrinsic size of `heroImage`, when it differs from the default 680×406. */
+  heroSize?: { width: number; height: number }
   /** Evidence shots: dashboards, posters, screenshots. Rendered in a row. */
   proofImages: readonly string[]
 }
@@ -81,13 +83,14 @@ export const projects: readonly Project[] = [
   {
     slug: "sazo",
     brand: "SaZo",
-    year: "2024",
+    year: "2021",
     logo: "/images/sazo-logo.jpg",
     banner: "/images/sazo-banner.png",
     blocks: ["context", "insight", "solution", "contribution"],
     headlineMetric: "roas",
     tagline: "Made to match",
-    heroImage: "/images/work/sazo-hero.jpg",
+    heroImage: "/images/work/sazo-main.jpg",
+    heroSize: { width: 1024, height: 1024 },
     proofImages: [
       "/images/work/sazo-proof-1.png",
       "/images/work/sazo-proof-2.png",
@@ -108,11 +111,12 @@ export const projects: readonly Project[] = [
     blocks: ["context", "mission", "contribution"],
     headlineMetric: "community",
     tagline: "Create emotions and make it happen",
-    heroImage: "/images/work/vip-events-hero.jpg",
+    heroImage: "/images/work/vip-events-main.jpg",
+    heroSize: { width: 1024, height: 1024 },
     proofImages: [
       "/images/work/vip-events-proof-1.jpg",
       "/images/work/vip-events-proof-2.jpg",
-      "/images/work/vip-events-proof-3.jpg",
+      "/images/work/vip-events-theatre.jpg",
       "/images/work/vip-events-proof-4.jpg",
       "/images/work/vip-events-proof-5.jpg",
     ],
@@ -132,10 +136,9 @@ export const projects: readonly Project[] = [
     blocks: ["context", "insight", "solution", "contribution"],
     headlineMetric: "roas",
     tagline: "More comfort in every prayer",
-    heroImage: "/images/work/al-sojood-hero.jpg",
+    heroImage: "/images/work/al-sojood-main.jpg",
+    heroSize: { width: 1024, height: 1024 },
     proofImages: [
-      "/images/work/al-sojood-proof-1.jpg",
-      "/images/work/al-sojood-proof-2.jpg",
       "/images/work/al-sojood-proof-3.jpg",
       "/images/work/al-sojood-proof-4.jpg",
     ],

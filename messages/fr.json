@@ -3,7 +3,6 @@
     "home": "Accueil",
     "work": "Projets",
     "education": "Formation",
-    "certificates": "Certificats",
     "contact": "Contact",
     "menu": "Menu",
     "closeMenu": "Fermer le menu",
@@ -52,14 +51,21 @@
     },
     "skills": {
       "title": "Mes domaines",
-      "strategy": "Stratégie de marque",
-      "strategyItems": "Positionnement de marque|Positionnement produit|Stratégie créative|Compréhension de l'audience",
-      "paid": "Médias payants",
-      "paidItems": "Meta Ads|Planification de campagne|Optimisation des performances|Analyse ROAS et CPA",
-      "content": "Contenu et communauté",
-      "contentItems": "Community management|Direction de contenu|Rédaction publicitaire|Concepts créatifs",
-      "partnerships": "Partenariats",
-      "partnershipsItems": "Stratégie de sponsoring|Collaborations de marque|Exécution de campagne|Rapports de résultats",
+      "strategy": "Stratégie créative",
+      "strategyItems": "Étude de marché|Avatar client|Analyse concurrentielle|Angles d'offre",
+      "strategyBody": "J'étudie le marché, je comprends les désirs et les freins des clients, j'analyse la concurrence et j'identifie les angles qui font ressortir un produit.",
+      "briefing": "Brief créatif",
+      "briefingItems": "Briefs créatifs|Concepts publicitaires|Direction des messages|Références visuelles",
+      "briefingBody": "Je transforme les insights stratégiques en briefs créatifs clairs qui guident la production des publicités : concept, hook, message clé, format et direction visuelle.",
+      "copywriting": "Copywriting direct response",
+      "copywritingItems": "Hooks|Scripts publicitaires|Textes principaux|Titres|Landing pages",
+      "copywritingBody": "J'écris un copy persuasif et orienté conversion, conçu pour capter l'attention, créer le désir, lever les objections et transformer les prospects en clients.",
+      "development": "Développement créatif",
+      "developmentItems": "Concepts UGC|Scripts vidéo|Publicités statiques|Variations créatives",
+      "developmentBody": "Je développe des concepts publicitaires et des variations créatives adaptés au produit, à l'audience et à la plateforme, en donnant à chaque idée un objectif clair et un message persuasif.",
+      "testing": "Tests & analyse créative",
+      "testingItems": "Performance publicitaire|Test de hooks|Test d'angles|Itération",
+      "testingBody": "J'analyse la performance des créas, j'identifie ce qui résonne auprès de l'audience et j'utilise ces enseignements pour affiner les messages, tester de nouveaux angles et créer des publicités plus fortes.",
       "lead": "Stratégie, création et performance, pour transformer l'ambition d'une marque en croissance mesurable."
     },
     "selected": {
@@ -72,22 +78,29 @@
       "lead": "Des marques que j'ai construites, développées ou dont j'ai porté le budget."
     },
     "approach": {
-      "title": "Le déroulé d'un projet",
-      "lead": "Quatre étapes, dans cet ordre. Rien ne passe en création avant d'avoir compris le client.",
-      "s1t": "Comprendre le client",
-      "s1b": "Ce qu'il cherche à résoudre, ce qui le freine, et les mots qu'il emploie pour les deux.",
-      "s2t": "Trouver l'angle",
-      "s2b": "La promesse qui rend le produit évident pour ce client, et la preuve qui la soutient.",
-      "s3t": "Écrire la création",
-      "s3b": "Accroches, scripts et textes publicitaires exploitables dès le jour même.",
-      "s4t": "Lire les chiffres",
-      "s4b": "Le ROAS, le CPA et le taux de rétention décident quoi scaler, réécrire ou arrêter."
+      "title": "Comment se déroule un projet",
+      "lead": "Je pense comme un stratège et j'écris comme un vendeur. Voici comment on passe de la page blanche à des résultats mesurables.",
+      "s1t": "Comprendre",
+      "s1b": "J'étudie votre marque, votre marché et vos clients jusqu'à les connaître mieux que vos concurrents. C'est de là que vient l'insight.",
+      "s1d": "Synthèse de recherche + insights clients clés",
+      "s2t": "Stratégie & brief",
+      "s2b": "Je définis le positionnement, le message et l'angle qui feront la différence, puis je les traduis en un brief créatif précis. Chacun sait exactement quoi produire et pourquoi, avant qu'un seul mot ne soit écrit.",
+      "s2d": "Brief créatif + cadre de messages",
+      "s3t": "Écrire",
+      "s3b": "Je rédige un copy persuasif pour chaque point de contact (publicités, landing pages, e-mails, pages de vente), chaque mot aligné sur la stratégie et pensé pour faire agir.",
+      "s3d": "Copy orienté conversion, prêt à lancer",
+      "s4t": "Optimiser",
+      "s4b": "On lance, on mesure, on teste et on améliore. Je ne m'arrête pas à « ça sonne bien » ; je m'arrête à « ça marche ».",
+      "s4d": "Bilan de performance + recommandations d'optimisation",
+      "deliverable": "Livrable",
+      "ctaLead": "Prêt à commencer ?",
+      "ctaLink": "Parlons de votre projet"
     },
     "faq": {
       "title": "Questions fréquentes",
       "lead": "Les réponses courtes. Pour le reste, demandez.",
       "q1": "Que fait Zoubeyr Sahraoui ?",
-      "a1": "De la stratégie créative et du copywriting à réponse directe pour les marques e-commerce : positionnement de marque et de produit, angles publicitaires, accroches et scripts, et les campagnes Meta Ads qui les portent.",
+      "a1": "Creative Strategist et copywriter direct response, spécialisé dans l'e-commerce et le marketing de performance. Il élabore des stratégies créatives, construit des briefs créatifs fondés sur les données et écrit des scripts publicitaires persuasifs et un copy orienté conversion. De l'étude de marché aux tests et à l'analyse créative, il aide les marques à transformer les insights clients en publicités performantes.",
       "q2": "Sur quelles plateformes lance-t-il des campagnes ?",
       "a2": "Meta Ads, sur Facebook et Instagram. Cela couvre la planification des campagnes, le test des créations et l'optimisation du ROAS et du CPA.",
       "q3": "Où est-il basé, et travaille-t-il à distance ?",
@@ -140,12 +153,6 @@
       }
     }
   },
-  "certificates": {
-    "title": "Certificats",
-    "lead": "Certifications et programmes suivis.",
-    "empty": "J'ajoute cette section en ce moment. En attendant, mon CV contient la liste complète.",
-    "emptyCta": "Posez-moi la question"
-  },
   "contact": {
     "title": "Contact",
     "lead": "WhatsApp est le moyen le plus rapide. L'e-mail convient mieux aux briefs et aux documents.",
@@ -182,10 +189,6 @@
     "education": {
       "title": "Formation",
       "description": "Formation et parcours de Zoubeyr Sahraoui, stratège créatif et copywriter en marketing direct."
-    },
-    "certificates": {
-      "title": "Certificats",
-      "description": "Certifications et programmes suivis par Zoubeyr Sahraoui, stratège créatif et copywriter en marketing direct."
     },
     "contact": {
       "title": "Contact",

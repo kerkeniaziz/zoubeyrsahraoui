@@ -9,7 +9,6 @@ import {
 } from "lucide-react"
 import { getTranslations, setRequestLocale } from "next-intl/server"
 import { BreadcrumbSchema } from "@/components/site/structured-data"
-import { Cta } from "@/components/sections/cta"
 import { PageHeader } from "@/components/sections/page-header"
 import { Stagger, StaggerItem } from "@/components/motion/stagger"
 import { CvButton } from "@/components/site/cv-button"
@@ -136,7 +135,6 @@ export default async function ContactPage({
         </div>
       </section>
 
-      <Cta />
       <BreadcrumbSchema locale={locale} trail={[{ name: tn("home"), path: "" }, { name: t("title"), path: "/contact" }]} />
     </main>
   )

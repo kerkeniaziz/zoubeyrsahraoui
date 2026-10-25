@@ -18,7 +18,6 @@ const PATHS = [
   "/work/al-sojood",
   "/skills",
   "/education",
-  "/certificates",
   "/contact",
 ]
 

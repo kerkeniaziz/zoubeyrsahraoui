@@ -3,7 +3,6 @@
     "home": "Start",
     "work": "Arbeiten",
     "education": "Ausbildung",
-    "certificates": "Zertifikate",
     "contact": "Kontakt",
     "menu": "Menü",
     "closeMenu": "Menü schließen",
@@ -52,14 +51,21 @@
     },
     "skills": {
       "title": "Was ich mache",
-      "strategy": "Markenstrategie",
-      "strategyItems": "Markenpositionierung|Produktpositionierung|Kreativstrategie|Zielgruppenverständnis",
-      "paid": "Paid Media",
-      "paidItems": "Meta Ads|Kampagnenplanung|Performance-Optimierung|ROAS- und CPA-Analyse",
-      "content": "Content und Community",
-      "contentItems": "Community-Management|Content-Direction|Werbetexte|Kreativkonzepte",
-      "partnerships": "Partnerschaften",
-      "partnershipsItems": "Sponsoring-Strategie|Markenkooperationen|Kampagnenumsetzung|Ergebnisberichte",
+      "strategy": "Kreativstrategie",
+      "strategyItems": "Marktforschung|Kunden-Avatar|Wettbewerbsanalyse|Angebots-Angles",
+      "strategyBody": "Ich analysiere den Markt, verstehe die Wünsche und Pain Points der Kunden, untersuche den Wettbewerb und finde die Angles, mit denen ein Produkt heraussticht.",
+      "briefing": "Creative Briefing",
+      "briefingItems": "Creative Briefings|Anzeigenkonzepte|Botschaftsrichtung|Visuelle Referenzen",
+      "briefingBody": "Ich übersetze strategische Insights in klare Creative Briefings, die die Anzeigenproduktion steuern: Konzept, Hook, Kernbotschaft, Format und visuelle Richtung.",
+      "copywriting": "Direct-Response-Copywriting",
+      "copywritingItems": "Hooks|Anzeigenskripte|Primärtexte|Headlines|Landingpages",
+      "copywritingBody": "Ich schreibe überzeugende, conversion-orientierte Texte, die Aufmerksamkeit gewinnen, Verlangen wecken, Einwände ausräumen und Interessenten zu Kunden machen.",
+      "development": "Kreativentwicklung",
+      "developmentItems": "UGC-Konzepte|Video-Anzeigenskripte|Statische Anzeigen|Kreativvarianten",
+      "developmentBody": "Ich entwickle Anzeigenkonzepte und Kreativvarianten, zugeschnitten auf Produkt, Zielgruppe und Plattform, und gebe jeder Idee einen klaren Zweck und eine überzeugende Botschaft.",
+      "testing": "Kreativtests & Analyse",
+      "testingItems": "Anzeigen-Performance|Hook-Tests|Angle-Tests|Iteration",
+      "testingBody": "Ich analysiere die Performance der Creatives, erkenne, was bei der Zielgruppe ankommt, und nutze diese Erkenntnisse, um Botschaften zu schärfen, neue Angles zu testen und stärkere Anzeigen zu entwickeln.",
       "lead": "Strategie, Kreation und Performance, um Markenambition in messbares Wachstum zu übersetzen."
     },
     "selected": {
@@ -72,22 +78,29 @@
       "lead": "Marken, die ich aufgebaut, skaliert oder deren Budget ich verantwortet habe."
     },
     "approach": {
-      "title": "Wie ein Projekt läuft",
-      "lead": "Vier Schritte, in dieser Reihenfolge. Nichts geht in die Kreation, bevor der Kunde verstanden ist.",
-      "s1t": "Den Kunden verstehen",
-      "s1b": "Was er lösen will, was ihn aufhält, und die Worte, die er für beides benutzt.",
-      "s2t": "Den Angle finden",
-      "s2b": "Das eine Versprechen, das das Produkt für diesen Kunden selbstverständlich macht, samt Beleg.",
-      "s3t": "Die Kreation schreiben",
-      "s3b": "Hooks, Skripte und Anzeigentexte, die noch am selben Tag ins Konto können.",
-      "s4t": "Die Zahlen lesen",
-      "s4b": "ROAS, CPA und Hold Rate entscheiden, was skaliert, neu geschrieben oder gestoppt wird."
+      "title": "So läuft ein Projekt ab",
+      "lead": "Ich denke wie ein Stratege und schreibe wie ein Verkäufer. So kommen wir vom leeren Blatt zu messbaren Ergebnissen.",
+      "s1t": "Verstehen",
+      "s1b": "Ich analysiere Ihre Marke, Ihren Markt und Ihre Kunden, bis ich sie besser kenne als Ihre Wettbewerber. Daraus entsteht der entscheidende Insight.",
+      "s1d": "Research-Zusammenfassung + zentrale Kunden-Insights",
+      "s2t": "Strategie & Briefing",
+      "s2b": "Ich lege Positionierung, Botschaft und den Ansatz fest, der durchdringt, und übersetze das in ein präzises Creative Briefing. Alle wissen genau, was entstehen soll und warum, bevor ein einziges Wort geschrieben ist.",
+      "s2d": "Creative Briefing + Messaging-Framework",
+      "s3t": "Schreiben",
+      "s3b": "Ich schreibe überzeugende Texte für jeden Touchpoint (Anzeigen, Landingpages, E-Mails, Sales Pages), jedes Wort auf die Strategie abgestimmt und darauf ausgelegt, zum Handeln zu bewegen.",
+      "s3d": "Conversion-orientierte Texte, bereit zum Launch",
+      "s4t": "Optimieren",
+      "s4b": "Wir launchen, messen, testen und verbessern. Ich höre nicht bei „klingt gut“ auf, sondern bei „funktioniert“.",
+      "s4d": "Performance-Review + Optimierungsempfehlungen",
+      "deliverable": "Ergebnis",
+      "ctaLead": "Bereit loszulegen?",
+      "ctaLink": "Sprechen wir über Ihr Projekt"
     },
     "faq": {
       "title": "Häufige Fragen",
       "lead": "Die kurzen Antworten. Für alles andere: einfach fragen.",
       "q1": "Was macht Zoubeyr Sahraoui?",
-      "a1": "Kreativstrategie und Direct-Response-Texte für E-Commerce-Marken: Marken- und Produktpositionierung, Werbe-Angles, Hooks und Skripte sowie die Meta-Ads-Kampagnen, die sie tragen.",
+      "a1": "Creative Strategist und Direct-Response-Copywriter mit Schwerpunkt auf E-Commerce und Performance-Marketing. Er entwickelt Kreativstrategien, erstellt datenbasierte Creative Briefings und schreibt überzeugende Anzeigenskripte und conversion-orientierte Texte. Von der Marktforschung bis zu Kreativtests und Analyse hilft er Marken, Kunden-Insights in leistungsstarke Anzeigen zu verwandeln.",
       "q2": "Auf welchen Plattformen laufen die Kampagnen?",
       "a2": "Meta Ads, auf Facebook und Instagram. Dazu gehören Kampagnenplanung, Creative-Testing und Optimierung auf ROAS und CPA.",
       "q3": "Wo sitzt er, und arbeitet er remote?",
@@ -140,12 +153,6 @@
       }
     }
   },
-  "certificates": {
-    "title": "Zertifikate",
-    "lead": "Zertifizierungen und abgeschlossene Programme.",
-    "empty": "Ich baue diesen Bereich gerade auf. Bis dahin steht die vollständige Liste in meinem Lebenslauf.",
-    "emptyCta": "Fragen Sie mich danach"
-  },
   "contact": {
     "title": "Kontakt",
     "lead": "Über WhatsApp erreichen Sie mich am schnellsten. E-Mail passt besser für Briefings und Dokumente.",
@@ -182,10 +189,6 @@
     "education": {
       "title": "Ausbildung",
       "description": "Ausbildung und Weiterbildung von Zoubeyr Sahraoui, Creative Strategist und Direct-Response-Texter."
-    },
-    "certificates": {
-      "title": "Zertifikate",
-      "description": "Zertifizierungen und abgeschlossene Programme von Zoubeyr Sahraoui, Creative Strategist und Direct-Response-Texter."
     },
     "contact": {
       "title": "Kontakt",

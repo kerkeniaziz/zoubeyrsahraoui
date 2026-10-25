@@ -181,8 +181,8 @@ export async function CaseStudy({
           <Image
             src={project.heroImage}
             alt={tp(`${project.slug}.bannerAlt`)}
-            width={680}
-            height={406}
+            width={project.heroSize?.width ?? 680}
+            height={project.heroSize?.height ?? 406}
             sizes="(max-width: 1023px) 100vw, 42vw"
             quality={90}
             priority={priority}

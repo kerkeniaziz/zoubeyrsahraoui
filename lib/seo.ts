@@ -7,7 +7,6 @@ export const routes = [
   "/work",
   "/skills",
   "/education",
-  "/certificates",
   "/contact",
 ] as const
 

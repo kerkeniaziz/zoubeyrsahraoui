@@ -23,7 +23,7 @@ and has run communication for an events agency with a community of 400,000.
 
 ## Selected work
 
-- SaZo (2024) — Founder & Growth Marketer. Direct-to-consumer matching jewellery
+- SaZo (2021) — Founder & Growth Marketer. Direct-to-consumer matching jewellery
   for couples. Over $10,000 ad spend managed, 5,000+ purchases, CPA $1.5, ROAS 3:1.
 - VIP Events & Pub (2019) — Community Manager. Tunisian events agency.
   400k+ community growth, 100+ events promoted, 50+ sponsorships, 200+ events covered.
@@ -46,5 +46,4 @@ This site is published in English, French, Arabic, German and Spanish.
 - /en — home and profile
 - /en/work — case studies
 - /en/education — education
-- /en/certificates — certificates
 - /en/contact — contact details

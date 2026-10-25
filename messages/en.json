@@ -3,7 +3,6 @@
     "home": "Home",
     "work": "Work",
     "education": "Education",
-    "certificates": "Certificates",
     "contact": "Contact",
     "menu": "Menu",
     "closeMenu": "Close menu",
@@ -27,7 +26,7 @@
   "home": {
     "hero": {
       "role": "Creative strategist and direct-response copywriter",
-      "hook": "I find the reason people buy, then write the ad that says it before they scroll.",
+      "hook": "Creative Strategist & Direct Response Copywriter. I write the briefs that make great creative possible, and the copy that makes it sell.",
       "location": "Tunisia, working with e-commerce brands anywhere",
       "primaryCta": "See the work",
       "secondaryCta": "Tell me about your product",
@@ -52,14 +51,21 @@
     },
     "skills": {
       "title": "What I do",
-      "strategy": "Brand strategy",
-      "strategyItems": "Brand positioning|Product positioning|Creative strategy|Audience insight",
-      "paid": "Paid media",
-      "paidItems": "Meta Ads|Campaign planning|Performance optimisation|ROAS and CPA analysis",
-      "content": "Content and community",
-      "contentItems": "Community management|Content direction|Ad copywriting|Creative concepts",
-      "partnerships": "Partnerships",
-      "partnershipsItems": "Sponsorship strategy|Brand collaborations|Campaign execution|Results reporting",
+      "strategy": "Creative Strategy",
+      "strategyItems": "Market Research|Customer Avatar|Competitor Analysis|Offer Angles",
+      "strategyBody": "I research the market, understand customer desires and pain points, analyze competitors, and identify the angles that make a product stand out.",
+      "briefing": "Creative Briefing",
+      "briefingItems": "Creative Briefs|Ad Concepts|Messaging Direction|Visual References",
+      "briefingBody": "I turn strategic insights into clear creative briefs that guide the production of ads, defining the concept, hook, key message, format, and visual direction.",
+      "copywriting": "Direct Response Copywriting",
+      "copywritingItems": "Hooks|Ad Scripts|Primary Texts|Headlines|Landing Pages",
+      "copywritingBody": "I write persuasive, conversion-focused copy designed to capture attention, build desire, overcome objections, and turn prospects into customers.",
+      "development": "Creative Development",
+      "developmentItems": "UGC Concepts|Video Ad Scripts|Static Ads|Creative Variations",
+      "developmentBody": "I develop ad concepts and creative variations tailored to the product, audience, and platform, giving each idea a clear purpose and persuasive message.",
+      "testing": "Creative Testing & Analysis",
+      "testingItems": "Ad Performance|Hook Testing|Angle Testing|Iteration",
+      "testingBody": "I analyze creative performance, identify what resonates with the audience, and use the insights to refine messaging, test new angles, and develop stronger ads.",
       "lead": "Strategy, creative and performance, built to turn brand ambition into measurable growth."
     },
     "selected": {
@@ -72,22 +78,29 @@
       "lead": "Brands I have built, grown, or carried the budget for."
     },
     "approach": {
-      "title": "How a project runs",
-      "lead": "Four steps, in this order. Nothing moves to creative before the customer is understood.",
-      "s1t": "Understand the customer",
-      "s1b": "What they are trying to solve, what stops them, and the words they use for both.",
-      "s2t": "Find the angle",
-      "s2b": "The one claim that makes the product obvious to that customer, and the proof behind it.",
-      "s3t": "Write the creative",
-      "s3b": "Hooks, scripts and ad copy a media buyer can put into the account the same day.",
-      "s4t": "Read the numbers",
-      "s4b": "ROAS, CPA and hold rate decide what gets scaled, rewritten, or dropped."
+      "title": "How a Project Works",
+      "lead": "I think like a strategist and write like a salesperson. Here's how we go from blank page to measurable results.",
+      "s1t": "Understand",
+      "s1b": "I study your brand, market, and customers until I know them better than your competitors do. That's where the insight comes from.",
+      "s1d": "Research summary + key customer insights",
+      "s2t": "Strategize & Brief",
+      "s2b": "I define the positioning, the message, and the angle that will cut through, then translate it into a sharp creative brief. Everyone knows exactly what to make and why, before a single word is written.",
+      "s2d": "Creative brief + messaging framework",
+      "s3t": "Write",
+      "s3b": "I craft persuasive copy across every touchpoint (ads, landing pages, emails, sales pages), each word aligned with the strategy and built to drive action.",
+      "s3d": "Conversion-focused copy, ready to launch",
+      "s4t": "Optimize",
+      "s4b": "We launch, track, test, and improve. I don't stop at \"it sounds good\"; I stop at \"it works.\"",
+      "s4d": "Performance review + optimization recommendations",
+      "deliverable": "Deliverable",
+      "ctaLead": "Ready to start?",
+      "ctaLink": "Let's talk about your project"
     },
     "faq": {
       "title": "Questions people ask",
       "lead": "The short answers. Anything else, just ask.",
       "q1": "What does Zoubeyr Sahraoui do?",
-      "a1": "Creative strategy and direct-response copywriting for e-commerce brands: brand and product positioning, advertising angles, hooks and ad scripts, and the Meta Ads campaigns that carry them.",
+      "a1": "Creative Strategist & Direct Response Copywriter specializing in e-commerce and performance marketing. He develops creative strategies, builds data-driven creative briefs, and writes persuasive ad scripts and conversion-focused copy. From market research to creative testing and analysis, he helps brands turn customer insights into high-performing ads.",
       "q2": "Which platforms does he run campaigns on?",
       "a2": "Meta Ads, across Facebook and Instagram. That covers campaign planning, creative testing, and optimisation against ROAS and CPA.",
       "q3": "Where is he based, and does he work remotely?",
@@ -140,12 +153,6 @@
       }
     }
   },
-  "certificates": {
-    "title": "Certificates",
-    "lead": "Certifications and completed programmes.",
-    "empty": "I am adding this section now. Until it is here, my CV carries the full list.",
-    "emptyCta": "Ask me about it"
-  },
   "contact": {
     "title": "Contact",
     "lead": "WhatsApp reaches me fastest. Email is better for briefs and documents.",
@@ -182,10 +189,6 @@
     "education": {
       "title": "Education",
       "description": "Education and training of Zoubeyr Sahraoui, creative strategist and direct-response copywriter."
-    },
-    "certificates": {
-      "title": "Certificates",
-      "description": "Certifications and completed programmes of Zoubeyr Sahraoui, creative strategist and direct-response copywriter."
     },
     "contact": {
       "title": "Contact",

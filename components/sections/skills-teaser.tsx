@@ -1,7 +1,19 @@
 import { getTranslations } from "next-intl/server"
 import { Link } from "@/i18n/navigation"
 
-const groups = ["strategy", "paid", "content", "partnerships"] as const
+const groups = [
+  "strategy",
+  "briefing",
+  "copywriting",
+  "development",
+  "testing",
+] as const
+
+// Pushes the 4th card (desktop) and the 5th card (tablet) in by half a card.
+const centring: Record<number, string> = {
+  3: "lg:col-start-2",
+  4: "sm:col-start-2 lg:col-start-auto",
+}
 
 /** Compact pointer to the full /skills page — the detail lives there. */
 export async function SkillsTeaser() {
@@ -31,14 +43,27 @@ export async function SkillsTeaser() {
         </Link>
       </div>
 
-      <ul className="mt-9 grid gap-px overflow-hidden rounded-lg border border-line bg-line sm:grid-cols-2 lg:grid-cols-4">
-        {groups.map((group) => (
-          <li key={group} className="glass p-6">
-            <h3 className="font-display text-display-xs text-ink">
+      {/*
+        Five equal cards: 2 + 2 + 1 on tablet, 3 + 2 on desktop. The grid uses
+        half-card columns so the short last row sits centred.
+      */}
+      <ul className="mt-9 grid gap-4 sm:grid-cols-4 lg:grid-cols-6">
+        {groups.map((group, index) => (
+          <li
+            key={group}
+            className={`glass rounded-lg border border-line p-6 sm:col-span-2 ${centring[index] ?? ""}`}
+          >
+            <span className="font-sans text-small num tabular-nums text-brand">
+              {String(index + 1).padStart(2, "0")}
+            </span>
+            <h3 className="mt-2 font-display text-display-xs text-ink">
               {t(group)}
             </h3>
+            <p className="mt-2 text-micro text-ink-faint">
+              {t(`${group}Items`).split("|").join(" · ")}
+            </p>
             <p className="mt-3 text-small leading-relaxed text-ink-muted">
-              {t(`${group}Items`).split("|").slice(0, 2).join(", ")}
+              {t(`${group}Body`)}
             </p>
           </li>
         ))}
