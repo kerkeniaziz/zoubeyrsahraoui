@@ -4,6 +4,7 @@ import { useEffect, useMemo, useState } from "react"
 import { useTheme } from "next-themes"
 import { Lottie } from "lottie-react"
 import { recolour } from "@/lib/lottie-palette"
+import { heroSceneFrame } from "./hero-scene-frame"
 
 /**
  * The hero figure: a looping scene of a studio at work, standing for the whole
@@ -59,7 +60,7 @@ export function HeroScene({ label }: { label: string }) {
 
   return (
     <div
-      className="relative mx-auto w-full max-w-[21rem] sm:max-w-[26rem] lg:max-w-[31rem]"
+      className={heroSceneFrame}
       role="img"
       aria-label={label}
     >

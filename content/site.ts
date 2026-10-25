@@ -10,7 +10,7 @@ export const site = {
   jobTitle: "Creative Strategist & Direct-Response Copywriter",
   location: { city: "Tunis", country: "Tunisia", countryCode: "TN" },
   /** Set this to the production origin before deploying — used by sitemap, canonicals and JSON-LD. */
-  url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://zoubeyrsahraoui.com",
+  url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://zoubeyrsahraoui.org",
   cvPath: "/cv/zoubeyr-sahraoui-cv.pdf",
 } as const
 

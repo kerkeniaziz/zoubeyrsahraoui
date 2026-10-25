@@ -1,6 +1,6 @@
 "use client"
 
-import { useEffect, useRef, type ComponentPropsWithoutRef } from "react"
+import { useEffect, useMemo, useRef, type ComponentPropsWithoutRef } from "react"
 import { useInView, useMotionValue, useSpring } from "motion/react"
 
 import { cn } from "@/lib/utils"
@@ -30,6 +30,20 @@ export function NumberTicker({
   })
   const isInView = useInView(ref, { once: true, margin: "0px" })
 
+  const format = useMemo(
+    () =>
+      new Intl.NumberFormat("en-US", {
+        minimumFractionDigits: decimalPlaces,
+        maximumFractionDigits: decimalPlaces,
+      }),
+    [decimalPlaces],
+  )
+
+  // The widest string the counter will ever hold — "0" is one character, the
+  // settled value can be six. Rendered invisibly below so the box is sized for
+  // the end state from the first paint and the suffix beside it never slides.
+  const widest = format.format(direction === "down" ? startValue : value)
+
   useEffect(() => {
     let timer: ReturnType<typeof setTimeout> | null = null
 
@@ -50,25 +64,30 @@ export function NumberTicker({
     () =>
       springValue.on("change", (latest) => {
         if (ref.current) {
-          ref.current.textContent = Intl.NumberFormat("en-US", {
-            minimumFractionDigits: decimalPlaces,
-            maximumFractionDigits: decimalPlaces,
-          }).format(Number(latest.toFixed(decimalPlaces)))
+          ref.current.textContent = format.format(
+            Number(latest.toFixed(decimalPlaces)),
+          )
         }
       }),
-    [springValue, decimalPlaces]
+    [springValue, decimalPlaces, format]
   )
 
   return (
     <span
-      ref={ref}
-      className={cn(
-        "inline-block tabular-nums",
-        className
-      )}
+      className={cn("relative inline-block tabular-nums", className)}
       {...props}
     >
-      {startValue}
+      {/* In flow: reserves the final width and sets the baseline. */}
+      <span aria-hidden="true" className="invisible">
+        {widest}
+      </span>
+      {/* Out of flow: the value that actually ticks, laid over the reservation. */}
+      <span
+        ref={ref}
+        className="absolute inset-0 whitespace-nowrap text-start"
+      >
+        {format.format(startValue)}
+      </span>
     </span>
   )
 }

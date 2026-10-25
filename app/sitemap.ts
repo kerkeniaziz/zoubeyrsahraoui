@@ -4,6 +4,9 @@ import { projects } from "@/content/site"
 import { routes, urlFor } from "@/lib/seo"
 import { localeMeta, type Locale } from "@/i18n/routing"
 
+// Metadata route handlers must be pinned static for output: "export".
+export const dynamic = "force-static"
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const paths: string[] = [
     ...routes,
